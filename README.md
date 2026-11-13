@@ -87,16 +87,16 @@ The model was evaluated on a held-out test split across all 5 medical waste cate
 ## 🖼️ Visual Results
 
 ### 1. Training & Validation Learning Curves
-![Training Curves](training_curves.png)
+<img width="1041" height="341" alt="image" src="https://github.com/user-attachments/assets/d068c9b7-4899-40b8-b1f4-7cb48f0ef9a6" />
 
 ### 2. Confusion Matrix Heatmap
-![Confusion Matrix](confusion_matrix.png)
+<img width="831" height="647" alt="image" src="https://github.com/user-attachments/assets/ea8d0b4c-282e-44dc-96f3-7782192f5e6a" />
 
 ### 3. OpenCV Feature Processing Demonstration
-![OpenCV Feature Demo](opencv_feature_demo.png)
+<img width="833" height="205" alt="image" src="https://github.com/user-attachments/assets/a2e4977c-6924-4176-9d58-a753f7f00d40" />
 
 ### 4. Sample Test Predictions
-![Sample Test Predictions](test_predictions.png)
+<img width="833" height="535" alt="image" src="https://github.com/user-attachments/assets/1eb08764-523e-4631-b538-80dec71f3099" />
 
 ---
 
